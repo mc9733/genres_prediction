@@ -1,0 +1,2 @@
+Project in which there was used neural networks model to predict genres of a book based on book description. I used sigmoid function with adam optimizer
+because this model got the highest validation score
